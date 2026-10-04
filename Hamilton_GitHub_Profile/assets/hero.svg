@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hamilton Marondedze</title>
+  <desc id="desc">Building useful software. Exploring intelligent systems. A dark navy banner with teal circuit paths.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142438"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#87b4c7" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="65" width="38" height="4" rx="2" fill="#2dd4bf"/>
+  <text x="108" y="74" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#9cb4c9">SOFTWARE · DATA · ENGINEERING</text>
+  <text x="54" y="158" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5" fill="#f1f5f9">Hamilton Marondedze</text>
+  <text x="56" y="209" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#cbd5e1">Building useful software.</text>
+  <text x="56" y="242" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#cbd5e1">Exploring intelligent systems.</text>
+  <text x="56" y="307" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#6f8ba4">ZIMBABWE / HRMARONDEDZE</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".6">
+    <path d="M855 80h70l45 45h95v62h85"/><path d="M880 268h64l50-50h71v-31"/>
+    <path d="M925 80V45h166"/><path d="M994 218v90h130"/>
+    <rect x="839" y="136" width="99" height="88" rx="15"/>
+    <path d="m868 164-14 16 14 16m41-32 14 16-14 16m-13-41-14 50" stroke-width="3"/>
+  </g>
+  <g fill="#2dd4bf"><circle cx="855" cy="80" r="5"/><circle cx="880" cy="268" r="5"/><circle cx="1150" cy="187" r="5"/></g>
+  <g fill="#60a5fa"><circle cx="1091" cy="45" r="5"/><circle cx="1124" cy="308" r="5"/></g>
+  <rect x="56" y="339" width="1088" height="2" rx="1" fill="url(#accent)" opacity=".7"/>
+</svg>
